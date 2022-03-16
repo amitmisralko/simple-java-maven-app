@@ -6,6 +6,3 @@ Now modifying in feature branch.
 FEATURE 1 
 
 ----
-FEATURE 2 now
-
------
