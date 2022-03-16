@@ -6,3 +6,7 @@ Now modifying in feature branch.
 FEATURE 1 
 
 ----
+
+Added this line in Master directly
+
+----
