@@ -1,1 +1,8 @@
 this is a text file added by Amit.
+Now modifying in feature branch.
+---- 
+
+
+FEATURE 1 
+
+----
