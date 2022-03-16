@@ -7,7 +7,12 @@ FEATURE 1
 
 ----
 
+
 FEATURE 2 - added this comment in feature 2
 
 -----
 
+=======
+Added this line in Master directly
+
+---- master
